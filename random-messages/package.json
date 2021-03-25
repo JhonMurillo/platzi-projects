@@ -17,5 +17,13 @@
   "bin": {
     "random-msg-jm": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JhonMurillo/platzi-projects/tree/main/random-messages"
+  },
+  "bugs": {
+    "url": "https://github.com/JhonMurillo/platzi-projects/issues"
+  },
+  "homepage": "https://github.com/JhonMurillo/platzi-projects/blob/main/random-messages/readme.md"
 }
